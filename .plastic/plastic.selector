@@ -1,0 +1,4 @@
+repository "Unity1Week2@Dr_Hakase@cloud"
+  path "/"
+    br "/main"
+    co "/main"
